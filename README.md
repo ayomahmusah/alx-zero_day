@@ -1,2 +1,1 @@
-My first readme
-This is my last task
+This file is mandatory in projects
